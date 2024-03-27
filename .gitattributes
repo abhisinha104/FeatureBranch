@@ -1,2 +1,2 @@
-test.txt merge=ours
+*.txt merge=ours
 .gitattributes merge=ours
